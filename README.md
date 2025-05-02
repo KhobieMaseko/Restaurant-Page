@@ -11,13 +11,13 @@ Set up an HTML skeleton inside of src/template.html.
 
 Inside the body, add a <header> element that contains a <nav> with buttons (not links!) for different “tabs” (for example buttons for “Home”, “Menu” or “About” etc). 
 
-Below the <header>, add a single <div id="content">.
+    Below the <header>, add a single <div id="content">.
 
 Inside of src/index.js write a console.log or alert statement and then run npx webpack serve. 
 
 Open http://localhost:8080 in your browser and check your JavaScript is running.
 
-Inside div#content, create a homepage for your restaurant. 
+    Inside div#content, create a homepage for your restaurant. 
 
 You might want to include an image, headline, and some text about how wonderful the restaurant is; you do not have to make this look too fancy. 
 
